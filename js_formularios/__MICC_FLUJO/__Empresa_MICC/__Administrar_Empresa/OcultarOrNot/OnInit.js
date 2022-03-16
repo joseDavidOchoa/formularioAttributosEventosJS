@@ -1,0 +1,10 @@
+s.SetEnabled(false);
+if(s.GetValue()=='SI'){  
+    splFormulario_cbpSecundario_Fila_METODOLOGIAPERDIDA.hidden=true;  
+    splFormulario_cbpSecundario_Fila_METODOLOGIAGANANCIA.hidden=true;  
+    splFormulario_cbpSecundario_Fila_IDESTADO.hidden=true; 
+}else{  
+    splFormulario_cbpSecundario_Fila_METODOLOGIAPERDIDA.hidden=false;  
+    splFormulario_cbpSecundario_Fila_METODOLOGIAGANANCIA.hidden=false;  
+    splFormulario_cbpSecundario_Fila_IDESTADO.hidden=false; 
+}
