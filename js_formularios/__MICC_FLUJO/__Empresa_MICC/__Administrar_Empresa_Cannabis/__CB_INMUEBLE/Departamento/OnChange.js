@@ -1,0 +1,1 @@
+RecargarLista("IDINMUEBLECIUDAD",s.GetValue());

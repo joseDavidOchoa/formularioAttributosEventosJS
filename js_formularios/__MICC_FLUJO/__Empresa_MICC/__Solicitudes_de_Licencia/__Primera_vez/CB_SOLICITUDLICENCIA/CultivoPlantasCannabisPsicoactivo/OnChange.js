@@ -1,0 +1,6 @@
+//Checkbox
+
+if(ESTIPOLICENCIAPSICOACTIVO.GetChecked()){
+    ESTIPOLICENCIASIEMBRA.SetChecked(false);
+    ESTIPOLICENCIANOPSICOACTIVO.SetChecked(false);
+}

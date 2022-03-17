@@ -1,0 +1,1 @@
+RecargarLista("idciudad",s.GetValue());
